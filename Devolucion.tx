@@ -1,0 +1,8 @@
+Hola Cristian, me encanto tu presentación, salió fuera de lo común…
+Hubiera estado bueno que le sumaras alguna imagen. 
+Te paso a detallar algunos cambios para mejorar el código y funcionamiento. Adjunto el archivo para que lo puedas probar. 
+Hice una sola función que recibe por parámetro una variable que muestra el contenido dependiendo de que botón se seleccionó. 
+Por otra parte, te cambie el input por un textarea. 
+¡Te felicito por ir documentado tu código, es una excelente practica que deberías mantenerla!
+Como ultima recomendación, el mensaje del botón ok, podría ser mas descriptivo de su función. 
+¡Nos vemos en clases!
